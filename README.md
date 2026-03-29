@@ -37,4 +37,9 @@ To meet project constraints, arrays handle all data storage and are logically pa
 * [Screenshot of Inventory Frame goes here]
 
 ## Live Demo
-* [Insert your Google Vids live demo link here]
+<img width="620" height="393" alt="image" src="https://github.com/user-attachments/assets/9282f3cf-a445-4228-a01f-56d9863a9b48" />
+<img width="621" height="392" alt="image" src="https://github.com/user-attachments/assets/f67fbbd4-a94b-4728-ba26-3b37a0dd2903" />
+<img width="1045" height="396" alt="image" src="https://github.com/user-attachments/assets/df73ab4b-1ae8-4514-a5cf-1130bf0b745d" />
+
+
+
